@@ -1,0 +1,6 @@
+2026-09-18 17:12:02,077 - INFO - ETL Pipeline Started
+2026-09-18 17:12:02,082 - INFO - Extract stage completed. Records extracted: 10
+2026-09-18 17:12:02,096 - INFO - Transform stage completed. Records transformed: 10
+2026-09-18 17:12:02,101 - INFO - Validation completed. Valid records: 8, Invalid records: 2
+2026-09-18 17:12:02,105 - INFO - Load stage completed. Final records loaded: 8
+2026-09-18 17:12:02,105 - INFO - ETL Pipeline Completed Successfully

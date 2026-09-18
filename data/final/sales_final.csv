@@ -1,0 +1,9 @@
+product,category,quantity,price,total_amount
+Laptop,Electronics,2,55000,110000
+Mouse,Accessories,5,800,4000
+Keyboard,Accessories,3,1500,4500
+Monitor,Electronics,2,12000,24000
+Headphones,Accessories,4,2500,10000
+Printer,Electronics,1,15000,15000
+USB Cable,Accessories,10,300,3000
+Webcam,Electronics,2,3500,7000

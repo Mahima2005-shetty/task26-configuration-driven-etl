@@ -1,0 +1,15 @@
+{
+    "input_file": "data/raw/sales_raw.csv",
+    "transformed_file": "data/transformed/sales_transformed.csv",
+    "output_file": "data/final/sales_final.csv",
+    "validation": {
+        "required_columns": [
+            "product",
+            "category",
+            "quantity",
+            "price"
+        ],
+        "quantity_min": 1,
+        "price_min": 0
+    }
+}
